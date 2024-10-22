@@ -1,0 +1,21 @@
+/* Exsternal CSS */
+
+/* body er a CSS Selector*/
+/* {} Idicates a CSS Declaration*/
+body {
+  /* Properti:Value; is a CSS Rule */
+  background-color: aquamarine;
+}
+
+ul {
+  display: flex;
+  justify-content: center end;
+  gap: 15px;
+  list-style-type: none;
+  margin: 0%;
+  padding: 0%;
+}
+/* id-naim Selector*/
+#home {
+}
+/* classe naim Selector*/
